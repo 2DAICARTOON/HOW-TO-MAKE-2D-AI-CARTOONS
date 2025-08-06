@@ -1,4 +1,4 @@
-# HOW-TO-MAKE-2D-AI-CARTOONS
+# HOW TO MAKE 2D AI CARTOONS
 
 Welcome to the **"How to Make 2D AI Cartoons - v1"** guide!  
 This PDF walks you through the process of creating stunning, animated 2D cartoon characters using AI tools, from concept to final render.
